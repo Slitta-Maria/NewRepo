@@ -4,6 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		console.WriteLine("Hello World");
+		Console.WriteLine("Hello World");
+		Console.WriteLine("Welcome to C# programming!");
     }
 }
